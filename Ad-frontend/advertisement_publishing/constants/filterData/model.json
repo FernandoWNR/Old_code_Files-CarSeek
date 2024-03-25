@@ -1,0 +1,232 @@
+[
+    {
+      "brand": "Mazda",
+      "models": [
+        "2",
+        "2 Skyactive",
+        "3",
+        "6",
+        "Astina",
+        "Axela",
+        "Butterfly",
+        "CX-5",
+        "CX-6",
+        "Demio",
+        "Familia",
+        "Flair",
+  
+        "RX",
+        "Tribute",
+        "Carol",
+        "MR 90"
+      ]
+    },
+    {
+      "brand": "Audi",
+      "models": [
+        "100",
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "Q2",
+        "Q3",
+        "Q5",
+        "Q7",
+        "TTS"
+      ]
+    },
+    {
+      "brand": "Hummer",
+      "models": ["H2", "H3"]
+    },
+    {
+      "brand": "Chery",
+      "models": ["QQ", "QQ3"]
+    },
+    {
+      "brand": "BMW",
+      "models": [
+        "116i",
+        "218i",
+        "225XE",
+        "316i",
+        "318i",
+        "318is",
+        "320d",
+        "320i",
+        "330e",
+        "520d",
+        "520i",
+        "523i",
+        "530e",
+        "535i",
+        "730Ld",
+        "730d",
+        "740Le",
+        "740e",
+        "ActiveHybrid 7",
+        "E46",
+        "Mini Cooper",
+  
+        "X1",
+        "X2",
+        "X3",
+        "X5",
+        "X5 M",
+        "X5 eDrive",
+        "Z4",
+        "i3",
+        "i8"
+      ]
+    },
+    {
+      "brand": "Jaguar",
+      "models": ["E-Pace", "F-Type", "S-Type", "X-Type", "XE", "XF", "XJ"]
+    },
+    {
+      "brand": "MG",
+      "models": ["ZS"]
+    },
+    {
+      "brand": "Chrysler",
+      "models": ["300"]
+    },
+    {
+      "brand": "Peugeot",
+      "models": [
+        "2008",
+        "208",
+        "3008",
+        "305",
+        "307",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408",
+        "5008",
+        "505",
+        "508",
+        "607"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "models": [
+        "4DR",
+        "ASX",
+        "Celeste",
+        "Chariot",
+        "Colt",
+        "Eclipse Cross",
+        "Galant",
+        "L200",
+        "Lancer",
+        "Libero",
+        "Mirage",
+        "Montero",
+  
+        "Outlander",
+        "Pajero",
+        "Strada",
+        "Towny",
+        "Xpander",
+        "eK Wagon",
+        "i-MiEV",
+        "Minica",
+        "Attrage",
+        "Tredia",
+        "Verada",
+        "Space Wagon"
+      ]
+    },
+    {
+      "brand": "Fiat",
+      "models": ["1100", "500", "Linea", "Punto", "Uno"]
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "models": ["800", "Alto", "Esteem", "Gypsy", "WagonR", "Zen"]
+    },
+    {
+      "brand": "Volvo",
+      "models": ["850", "S40", "S60", "S80", "XC90"]
+    },
+    {
+      "brand": "Toyota",
+      "models": [
+        "4Runner",
+        "Allion",
+        "Alphard",
+        "Aqua",
+        "Avanza",
+        "Axio",
+        "Belta",
+        "CHR",
+        "Caldina",
+        "Cami",
+        "Camry",
+        "Carib",
+        "Carina",
+        "Ceres",
+        "Corolla",
+        "Corona",
+        "Corsa",
+        "Crown",
+        "Cynos",
+        "Duet",
+        "Esquire",
+        "Etios",
+        "Fielder",
+        "Fortuner",
+        "GT86",
+        "Harrier",
+        "Hilux",
+        "IST",
+        "Land Cruiser Prado",
+        "Land Cruiser Sahara",
+        "Marino",
+        "Mark",
+        "Passo",
+        "Pixis",
+        "Platz",
+        "Premio",
+        "Prius",
+        "RAV4",
+        "Ractis",
+        "Raize",
+        "Roomy",
+        "Rush",
+        "SAI",
+        "Soluna",
+        "Sprinter",
+        "Starlet",
+        "Tank",
+        "Tercel",
+        "Vanguard",
+        "Verossa",
+        "Vios",
+        "Vitz",
+        "Voxy",
+        "Wigo",
+        "Yaris",
+        "Vista",
+        "CE110",
+        "DX Wagon",
+        "KE72",
+        "KE20",
+        "AE100",
+        "AE91",
+        "Ke20",
+        "KE50",
+        "CE100",
+        "CE106",
+        "EE90",
+        "AE80",
+        "Glanza"
+      ]
+    }
+]

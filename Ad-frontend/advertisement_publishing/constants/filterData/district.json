@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name_en": "Ampara",
+      "name_si": "අම්පාර",
+      "name_ta": "அம்பாறை",
+      "createdAt": "2024-03-12T17:05:09.000Z",
+      "updatedAt": "2024-03-12T17:05:09.000Z"
+    },
+    {
+      "id": 2,
+      "name_en": "Anuradhapura",
+      "name_si": "අනුරාධපුරය",
+      "name_ta": "அனுராதபுரம்",
+      "createdAt": "2024-03-12T17:05:09.000Z",
+      "updatedAt": "2024-03-12T17:05:09.000Z"
+    },
+    {
+      "id": 3,
+      "name_en": "Badulla",
+      "name_si": "බදුල්ල",
+      "name_ta": "பதுளை",
+      "createdAt": "2024-03-12T17:05:09.000Z",
+      "updatedAt": "2024-03-12T17:05:09.000Z"
+    }
+]
