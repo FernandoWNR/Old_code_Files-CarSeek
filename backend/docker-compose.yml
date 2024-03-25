@@ -1,0 +1,38 @@
+version: 3.0.0
+
+# The name of the service
+services:
+  #DB_Service
+  db_service:
+    container_name: database_container
+    image: mysql:latest
+
+    environment:
+      MYSQL_ROOT_USER: ${MYSQL_USER}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+
+    # The ports to expose
+    ports:
+      - "3306:3306"
+    # The volumes to mount
+    volumes:
+      - ./db_data:/data/db
+    # The restart policy
+    restart: always
+
+  app:
+    container_name: app_container
+    restart: always
+    build: .
+    ports:
+      - 3000:3000
+    depends_on:
+      - db_service
+
+  migration:
+    container_name: migration
+    build: .
+    depends_on:
+      - db_service
+    command: sh -c 'until nc -z db_service 3306; do sleep 1; done; npx sequelize-cli db:migrate'

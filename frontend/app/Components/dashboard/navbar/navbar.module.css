@@ -1,0 +1,37 @@
+.nav{
+    color: black;
+    padding-bottom: 20px;
+}
+
+.navall {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navContainer {
+    display: flex;
+}
+
+.navmenu{
+    padding-right: 30px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    background-color: #37B24A;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.icon {
+    margin-right: 8px; /* Adjust as needed */
+}
+
+.text {
+    font-size: 16px; /* Adjust as needed */
+}

@@ -1,0 +1,39 @@
+.content{
+    background-color: #ECF0F4;
+    padding: 20px;
+    color: black;
+}
+
+.title{
+    padding: 0px 0px 30px 0px;
+}
+
+.select{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.select1, .select2, .select3, .select4{
+    padding: 0px 20px 0px 20px;
+}
+
+.select1{
+    border: 2px solid #37B24A;
+    border-radius: 10px;
+}
+
+.select2, .select3, .select4{
+    border: 2px solid #ECF0F4;
+    border-radius: 10px;
+}
+
+
+.clicked {
+    border: 1px solid black;
+}
+
+.list{
+    margin-left: 490px;
+    
+}
